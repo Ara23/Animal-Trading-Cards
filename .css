@@ -1,0 +1,47 @@
+html {
+	text-align:center
+
+}
+body {
+   font-family: sans-serif;
+}
+
+h3 {
+   text-align: left;
+}
+img {
+    width: 300px;
+    height: 200px;
+    padding:5px;
+    margin: 2px;
+}
+
+.card-content {
+   border: thin solid #d6d4d4;
+   padding: 0 1em 0 1em;
+   margin: 0 12.5px 12.5px 12.5px;
+   border-radius: 10px;
+   box-shadow: 10px 10px 40px -4px;
+}
+.facts {
+   font-style: italic;
+   text-align: center;
+}
+ul {
+   font-family: 'Catamaran', sans-serif;
+   font-size: small;
+   display: block;
+   padding-left: 5px;
+   padding-right: 5px;
+}
+
+li {
+   list-style-type: none;
+   text-align: left;
+   font-weight: bold;
+}
+.info {
+   width: 325px;
+   height: auto;
+
+}
